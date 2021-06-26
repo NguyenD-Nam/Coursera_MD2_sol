@@ -21,7 +21,7 @@ h1{
 	justify-content: center;
 }
 .item{
-	font-size: 0.75rem;
+	font-size: 1rem;
 	background-color: rgba(230, 230, 230);
 	text-align: left;
 	width: calc((100vw - 120px) / 3 - 4px);
